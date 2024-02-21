@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/social-links-profile-FQ_9rkukoi)
+- [Live Site](https://natashaac.github.io/Challenge-Social_Links_Profile/)
 
 ## My process
 
@@ -38,5 +38,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Natasha](https://natashaagathachambers.com/)
+- Website - [](https://natashaagathachambers.com/)
 - Frontend Mentor - [@NatashaAC](https://www.frontendmentor.io/profile/NatashaAC)
